@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adroit-nectar-372115",
+  "private_key_id": "8e1ad582bf23459cd58b297dae842bd6451d5193",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCownAXcRsEZS5E\nYgqSH2Mc2aEwQKOW3vD8tKXB/SkxWbRHo9+6dBRRjHjDq4IZt9WbGopkiajisLF0\nSb2VpxHlVJYV2VhfyWujBC1FNUMoZ7A9xwQwTI5h5GrSuouKQKDbNKn5EbY9G8ad\naFs2jXD3VngHswcQVYZQpEzRIIaHUro1AHv1AdbcXq1DdvDXi16mQ0jh4YPDA0v1\n2tIBA0gXix2ai9EgT6q1zW0r8Ab68Ty5j7pOmBxcR3g2KK/0EvdRlyQuNAE5nvdC\nXvx5IB8IaQDj5b4gP+mQxo5Sp5YPf7WyZCvTG6NPK7R0UaoJvap+i9SaB83n4zLN\ntpAYWWSvAgMBAAECggEACSPayVI9adwHCPocY3SivBXHZqMhmRLDD5TDI4IQIJWg\nr36fJ+yQiygmBEb+OWFdBtUFqNNR29FBEzDJPVk6nWaa6F0IrcttcntP7l8nn4Ea\nKQZl4i3LSl8CMB6dXyQH8kdka1J7wcyG0dCsnARGGYdL4fLez5IqP6TeajcuQhbw\n7aYA2kWMcFz/lQAdS1dwvyKW4ns1hMiqYK6FMrgONvBv/l3lVRvqgV85qVlDrRa4\nMULjDGl8UcVoi7R2/sioJHx3hZZ/nn85YjXu21T/d2suU3JNZwiC9qecc9Wt7DAH\nrbh8DOegvMiurUxrmHkBxueIWSh4CTXG+qLk1cezJQKBgQDSQoXR9Cku6Q5NTnxT\nlm+s/HSz6fpAiObfxfoAFkYlTDcNh7pFH4IC/Rj6MhEGpV8Nyt893N4rsjoXnJhf\nifDpmxpr5C8p9rO3rLXcY656HdY7AoNQcD2dAbszn9sWl71dhaDQQzA2jAr8/2O4\n7BpM02Rm/QntPpxXxnkMPE8SHQKBgQDNeL2hSuxwRylJx33I0dd+2Oo9VYMVgGrh\nbwdzT4MeLcPbp4H7JOIFiFRzgvthPewZqFPuH9QRY7dP2/O4k/1GtzNVlchQm7/g\nBsxssfYBDyo/1Le5gCAofEA/qAHHNByB87PCdBE+NposnyZ+aYEEdYIj9kr/u7e2\n1C+93quYOwKBgFBZ1bQPf7GKpMmMRdzXr6PG8n5S2yzQZJJ9oPVpjbLxNlS4WsnR\nqaikumfavEDy76lgrwGAJ3NBcAvX7y8LkwJjIKy8jf2WZsW5feJUQbgvMNBqPG6A\nBju7DqRC4cH3iQl1aKhOFN2zlPtsSdrAd6iGXGczKhj9BVhR4652Wa1NAoGAH9Gz\n5Bd7OAP9I9zN4NyGN7GVzLvCWgESDCkqiTPmBTVnIEv3eBIFIoAzO9Qr46o4Ntz3\namfpamv7xlU0j//y+BGE1Jsmcz07YJEM9UQ16YIUs9/YN9Tcpghf1rvI0rWCOKmp\ny9I3nV/NTl2zE155SVx9M95/TM0gLSL85bVm82MCgYB/mKknBfZiKf72lqif1fz8\nevJK/orje15whdpiDtpfehkKPuk7QMU0HhU8I5sMnNXwRsxgMdRESrkDPPeUN+lr\nj2PydRX1MoHHUBbekecOoQswfdl4bMyNwuy8c8WihHlAEgfTuZ5cEt8uY4AHgqGx\nFob7zOTz3ZxGbpd7Xt6Eog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "alimoff@adroit-nectar-372115.iam.gserviceaccount.com",
+  "client_id": "101999761919680866730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alimoff%40adroit-nectar-372115.iam.gserviceaccount.com"
+}
